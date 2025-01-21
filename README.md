@@ -15,3 +15,4 @@ https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/x64.zip
 https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/InShellProf.dll
 
  https://c566-150-107-23-254.ngrok-free.app
+https://raw.githubusercontent.com/Sanket-kumbhar/testing-win/refs/heads/main/generated_passwords.txt
