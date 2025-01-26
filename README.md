@@ -16,3 +16,4 @@ https://github.com/Sanket-kumbhar/testing-win/raw/refs/heads/main/InShellProf.dl
 
 https://raw.githubusercontent.com/Sanket-kumbhar/testing-win/refs/heads/main/generated_passwords.txt
 spaniel-warm-privately.ngrok-free.app
+https://raw.githubusercontent.com/peass-ng/PEASS-ng/refs/heads/master/winPEAS/winPEASbat/winPEAS.bat
